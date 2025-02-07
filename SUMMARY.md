@@ -1,6 +1,7 @@
 # Table of contents
 
-* [20250206](README.md)
+* [20250207](README.md)
+* [20250206](<README (13).md>)
 * [20250205](<README (12).md>)
 * [20250127](<README (11).md>)
 * [20250124](<README (10).md>)
@@ -23,7 +24,3 @@
 
 * [收盘看什么](zong-jie/shou-pan-kan-shen-me.md)
 * [记盘](zong-jie/ji-pan.md)
-
-***
-
-* [20250207](20250207.md)
